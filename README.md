@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, soy Iván</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p>Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación de nuevos proyectos y poder aportar mis conocimiento a la realización de los mismos.</p>
+<p>Soy Full Stack Web Developer y actualmente busco crecer como programador, adquiriendo conocimientos y aprendiendo el uso de nuevas tecnologías. Me motiva la creación y trabajo de nuevos proyectos, conocer gente nueva, atravesar nuevas fronteras y desarrollar mi potencial como profesional y persona.</p>
 
 - 🇦🇷 Argentina
 
